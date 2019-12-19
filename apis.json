@@ -1,0 +1,44 @@
+{
+    "name": "Federal Digital System",
+    "description": "<p>The Federal Digital System (FDsys) replaces GPOAccess,[1] an information storage system to house electronic government documents with a modern information management system. FDsys authenticates, preserves and provides permanent public access to federal government documents. The system automates the collection, management and dissemination of electronic information from all three branches of the federal government. The goal is to have a complete historical record of all federal government documents from the founding of our nation to the present.[1] FDsys was named by Government Computer News as one of the best government Web sites.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/FDsys.png",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/federal-digital-system\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Federal Digital System",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/FDsys.png",
+            "humanURL": "http:\/\/fdsys.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/federal-digital-system-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.fdsys.gov\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/fdsys.gov\/"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Federal_Digital_System"
+        }
+    ]
+}
